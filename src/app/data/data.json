@@ -1,0 +1,15 @@
+{
+  "users": [{
+    "josef.heiss@test.de": {
+      "firstname": "Josef",
+      "lastname": "Heiss"
+    }
+  },
+    {
+      "heike.schulzke@test.de": {
+        "firstname": "Heike",
+        "lastname": "Schulzke"
+      }
+    }
+  ]
+}

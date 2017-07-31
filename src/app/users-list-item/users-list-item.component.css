@@ -1,0 +1,10 @@
+jo-list-item {
+  display: flex;
+  flex-flow: column nowrap;
+  align-content: flex-start;
+}
+
+.jo-list-col {
+  display: inline-block;
+  width: 200px;
+}

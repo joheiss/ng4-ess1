@@ -1,0 +1,10 @@
+<ul class="list-group">
+  <li
+    *ngFor="let user of users$ | async"
+    class="list-group-item">
+    <jo-users-list-item
+      [user]="user"
+      (selected)="onSelected(user)">
+    </jo-users-list-item>
+  </li>
+</ul>
